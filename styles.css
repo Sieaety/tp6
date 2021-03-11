@@ -67,7 +67,7 @@ img {
   color: #853700;
 }
 
-.hide {
+.hide ul, .hide ol {
   display: none;
 }
 
@@ -92,6 +92,7 @@ img {
   }
   li {
     padding: 1vw;
+     font-size: 1vw;
   }
   h4 {
   font-size: 1vw;
